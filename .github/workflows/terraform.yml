@@ -16,7 +16,6 @@ jobs:
         version:
           - "latest"
           - "1.0.7"  # Per https://github.com/PSPinc/core-cloud-devops/pull/90
-    defaults:
 
     steps:
 
